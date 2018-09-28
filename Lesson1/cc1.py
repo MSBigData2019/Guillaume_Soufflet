@@ -11,26 +11,31 @@ import unittest
 
 # Given a string and a non-negative int n, return a larger string
 # that is n copies of the original string.
-
+#%%
 def string_times(string, n):
     return string*n
-
+#%%
 # Given an array of ints, return True if one of the first 4 elements
 # in the array is a 9. The array length may be less than 4.
 def array_front9(nums):
-    longueur=min(len(nums) & 4)
-    if 9 in longueur:
+    longueur=min(len(nums),4)
+    if 9 in nums[:longueur]:
         return True
-
+    else:
+        return False
+## correction
+    
+#%%
 # Given a string, return the count of the number of times
 # that a substring length 2 appears  in the string and also as
 # the last 2 chars of the string, so "hixxxhi" yields 1 (we won't count the end substring).
 def last2(string):
-    count=0
-    key = string[-2:]
-    for a,b in string[:len(str)-2]:
-        if a = key[0] & b = key[1]:
-            count += 1
+    if len(string) >= 4:
+        count=0
+        key = string[-2:]
+        for a,b in str(:len(str)-2):
+            if a = key[0] & b = key[1]:
+                count += 1
     return count
 #%%
 #Write a proramm that returna dictionary of occurences of the alphabet for a given string.
@@ -79,6 +84,8 @@ def fizbuzz():
             print('fizz')
         if i % 5 == 0:
             print('buzz')
+        else:
+            print(i)
     return
 #%%
 
