@@ -1,0 +1,332 @@
+;
+2. Population totale par âge et sexe,  Population totale : 20-39 ans, ELP : Estimation localisée de population;http://www.ecosante.fr/index2.php?base=DEPA&langs=FRA&langh=FRA&source=800341;
+2. Population totale par âge et sexe,  Population totale : moins de 20 ans, ELP : Estimation localisée de population;http://www.ecosante.fr/index2.php?base=DEPA&langs=FRA&langh=FRA&source=800341;
+2. Population totale par âge et sexe,  Population totale : 60-74 ans, ELP : Estimation localisée de population;http://www.ecosante.fr/index2.php?base=DEPA&langs=FRA&langh=FRA&source=800341;
+2. Population totale par âge et sexe,  Population totale : 40-59 ans, ELP : Estimation localisée de population;http://www.ecosante.fr/index2.php?base=DEPA&langs=FRA&langh=FRA&source=800341;
+2. Population totale par âge et sexe,  Population totale : 75 ans et plus, ELP : Estimation localisée de population;http://www.ecosante.fr/index2.php?base=DEPA&langs=FRA&langh=FRA&source=800341;
+;
+;
+;2015;2015;2015;2015;2015;;
+;Pop. totale : 20-39 ans;Pop. totale : 0-19 ans;Pop. totale : 60-74 ans;Pop. totale : 40-59 ans;Pop. totale : 75 ans et +;;
+;ELP : Estimation localisée de population;ELP : Estimation localisée de population;ELP : Estimation localisée de population;ELP : Estimation localisée de population;ELP : Estimation localisée de population;;
+000 France métropolitaine;15480272;15664305;62290644;17194678;5958333;;
+001 France entière;15983034;16359219;64391653;17758118;6063010;;
+D01 Ain;148053p;166683p;91194p;178118p;50125p;;
+D02 Aisne;120283p;136487p;85892p;146531p;49550p;;
+D03 Allier;65083p;72799p;66744p;93656p;45398p;;
+D04 Alpes-de-Haute-Provence;31055p;35545p;31654p;45380p;19290p;;
+D05 Hautes-Alpes;28444p;31570p;25594p;39657p;15441p;;
+D06 Alpes-Maritimes;244850p;230876p;187699p;288757p;129639p;;
+D07 Ardèche;63072p;73646p;60384p;90087p;36354p;;
+D08 Ardennes;61128p;67581p;45766p;77912p;26583p;;
+D09 Ariège;29214p;32481p;29382p;42561p;19373p;;
+D10 Aube;69412p;75191p;51480p;80923p;31079p;;
+D11 Aude;72012p;82843p;70966p;100420p;43815p;;
+D12 Aveyron;51826p;57781p;53075p;76240p;39140p;;
+D13 Bouches-du-Rhône;488702p;487235p;313562p;532258p;185927p;;
+D14 Calvados;158542p;170324p;114665p;182580p;67166p;;
+D15 Cantal;26972p;28073p;29196p;41465p;20593p;;
+D16 Charente;71102p;75839p;65909p;99007p;42729p;;
+D17 Charente-Maritime;124467p;135846p;129248p;171133p;78902p;;
+D18 Cher;62036p;67451p;59070p;85698p;37513p;;
+D19 Corrèze;45393p;49234p;46017p;64995p;33074p;;
+D21 Côte-d'Or;129695p;126111p;85666p;140460p;51091p;;
+D22 Côtes-d'Armor;114129p;138275p;112981p;159999p;74054p;;
+D23 Creuse;19889p;22241p;24903p;33746p;18602p;;
+D24 Dordogne;74533p;84028p;86678p;116127p;56853p;;
+D25 Doubs;135368p;133585p;81374p;138540p;47607p;;
+D26 Drôme;107897p;123234p;84611p;136370p;49042p;;
+D27 Eure;134930p;157221p;93291p;165534p;48542p;;
+D28 Eure-et-Loir;96432p;111395p;69111p;118603p;39630p;;
+D29 Finistère;196463p;209453p;155755p;247178p;98574p;;
+D2A Corse-du-Sud;35935p;31193p;26388p;43039p;16165p;;
+D2B Haute-Corse;41195p;35966p;30629p;48146p;18242p;;
+D30 Gard;157718p;177328p;132739p;204255p;76469p;;
+D31 Haute-Garonne;381876p;323651p;177461p;348028p;104350p;;
+D32 Gers;33928p;39709p;37804p;54178p;26020p;;
+D33 Gironde;390919p;365363p;234706p;414609p;137367p;;
+D34 Hérault;279117p;260274p;187309p;290030p;107260p;;
+D35 Ille-et-Vilaine;269162p;270311p;142235p;269297p;88978p;;
+D36 Indre;40807p;46996p;44389p;62703p;30695p;;
+D37 Indre-et-Loire;140858p;145566p;97326p;159738p;62676p;;
+D38 Isère;306104p;327875p;181836p;336332p;101467p;;
+D39 Jura;52945p;61505p;44979p;71842p;28184p;;
+D40 Landes;81291p;88621p;76158p;113910p;45233p;;
+D41 Loir-et-Cher;66139p;76970p;59769p;90063p;39834p;;
+D42 Loire;170077p;186537p;125924p;196209p;82610p;;
+D43 Haute-Loire;44797p;52367p;40720p;63718p;25907p;;
+D44 Loire-Atlantique;335672p;351506p;199108p;357749p;114592p;;
+D45 Loiret;155716p;170762p;105142p;177115p;62171p;;
+D46 Lot;29719p;33842p;36554p;48295p;24611p;;
+D47 Lot-et-Garonne;65599p;72760p;63664p;89515p;42568p;;
+D48 Lozère;15368p;15929p;14171p;21272p;9464p;;
+D49 Maine-et-Loire;191150p;213220p;120068p;208707p;76360p;;
+D50 Manche;100642p;113446p;88616p;137007p;60308p;;
+D51 Marne;143235p;141142p;88379p;150618p;49594p;;
+D52 Haute-Marne;37621p;39323p;32749p;49025p;20920p;;
+D53 Mayenne;65017p;79015p;47971p;81817p;34011p;;
+D54 Meurthe-et-Moselle;186363p;174127p;110967p;191832p;66375p;;
+D55 Meuse;41575p;44315p;32062p;52432p;20166p;;
+D56 Morbihan;151907p;173906p;134195p;204171p;83279p;;
+D57 Moselle;253643p;240059p;162672p;297676p;92963p;;
+D58 Nièvre;39223p;42032p;44431p;56764p;29661p;;
+D59 Nord;682287p;701201p;355845p;669975p;197866p;;
+D60 Oise;199065p;220774p;115917p;227856p;59246p;;
+D61 Orne;55901p;65377p;52550p;77158p;35270p;;
+D62 Pas-de-Calais;346151p;385063p;218653p;393131p;123485p;;
+D63 Puy-de-Dôme;153157p;144251p;109350p;175192p;64587p;;
+D64 Pyrénées-Atlantiques;144667p;144700p;116104p;186555p;78408p;;
+D65 Hautes-Pyrénées;43276p;47406p;43445p;63226p;30951p;;
+D66 Pyrénées-Orientales;95642p;107030p;89233p;122851p;57277p;;
+D67 Bas-Rhin;285851p;264841p;163635p;311198p;92484p;;
+D68 Haut-Rhin;178371p;183606p;117726p;217172p;66841p;;
+D69 Rhône;515379p;471925p;237076p;447478p;144515p;;
+D70 Haute-Saône;49030p;55918p;42326p;66741p;24166p;;
+D71 Saône-et-Loire;109304p;122934p;103845p;152252p;67505p;;
+D72 Sarthe;124007p;143831p;91952p;152450p;59895p;;
+D73 Savoie;99652p;102194p;68108p;119897p;39402p;;
+D74 Haute-Savoie;204211p;197088p;111286p;220273p;58236p;;
+D75 Paris;750131p;437754p;301161p;561382p;168108p;;
+D76 Seine-Maritime;302169p;312649p;195047p;332802p;112920p;;
+D77 Seine-et-Marne;357045p;389967p;175630p;384187p;84600p;;
+D78 Yvelines;352397p;384986p;192334p;391803p;102891p;;
+D79 Deux-Sèvres;75892p;87233p;63391p;103350p;42720p;;
+D80 Somme;137369p;141842p;89403p;151996p;50985p;;
+D81 Tarn;76029p;87068p;68915p;105286p;48706p;;
+D82 Tarn-et-Garonne;53827p;62102p;42582p;69472p;27683p;;
+D83 Var;217554p;223657p;200443p;276800p;123227p;;
+D84 Vaucluse;121003p;134111p;95106p;150267p;54132p;;
+D85 Vendée;138702p;160195p;120252p;176573p;72248p;;
+D86 Vienne;101325p;102389p;70512p;112964p;46492p;;
+D87 Haute-Vienne;81848p;81946p;67001p;99962p;44606p;;
+D88 Vosges;76722p;84755p;66019p;103726p;40570p;;
+D89 Yonne;68375p;79828p;61982p;92374p;38325p;;
+D90 Territoire de Belfort;36363p;36390p;21529p;38114p;12678p;;
+D91 Essonne;334602p;352512p;163024p;343561p;86165p;;
+D92 Hauts-de-Seine;462740p;407762p;191449p;425415p;116013p;;
+D93 Seine-Saint-Denis;458967p;458168p;170527p;402133p;84164p;;
+D94 Val-de-Marne;387795p;355611p;168295p;364305p;96012p;;
+D95 Val-d'Oise;327166p;346597p;145013p;320774p;70768p;;
+D9A Guadeloupe;79517;107664;395146;122286;29506;;
+D9B Martinique;73142;91829;370212;118701;33238;;
+D9C Guyane;72468;107712;257705;54196;4459;;
+D9D Réunion;216142;264117;849625;235885;35345;;
+D9F Mayotte;61493;123592;228321;32372;2129;;
+R11 Ile-de-France;3430843;3133357;11884907;3193560;808721;;
+R21 Champagne-Ardenne;311396;323237;1300426;358478;128176;;
+R22 Picardie;456717;499103;1895642;526383;159781;;
+R23 Haute-Normandie;437099;469870;1812118;498336;161462;;
+R24 Centre;561988;619140;2482119;693920;272519;;
+R25 Basse-Normandie;315085;349147;1420036;396745;162744;;
+R26 Bourgogne;346597;370905;1571967;441850;186582;;
+R31 Nord-Pas-de-Calais;1028438;1086264;3994987;1063106;321351;;
+R41 Lorraine;558303;543256;2272881;645666;220074;;
+R42 Alsace;464222;448447;1839882;528370;159325;;
+R43 Franche-Comté;273706;287398;1141549;315237;112635;;
+R52 Pays de la Loire;854548;947767;3591769;977296;357106;;
+R53 Bretagne;731661;791945;3163824;880645;344885;;
+R54 Poitou-Charentes;372786;401307;1718638;486454;210843;;
+R72 Aquitaine;757009;755472;3235774;920716;360429;;
+R73 Midi-Pyrénées;699695;684040;2871682;807286;320834;;
+R74 Limousin;147130;153421;691142;198703;96282;;
+R82 Rhône-Alpes;1614445;1649182;6323500;1724764;561751;;
+R83 Auvergne;290009;297490;1304640;374031;156485;;
+R91 Languedoc-Roussillon;619857;643404;2681920;738828;294285;;
+R93 Provence-Alpes-Côte d'Azur;1131608;1142994;4777384;1333119;527656;;
+R94 Corse;77130;67159;313857;91185;34407;;
+ROM Départements d'Outre-Mer;502762;694914;2101009;563440;104677;;
+Légende;
+p : Provisoire;
+;
+
+;
+
+;
+Population totale par âge et sexe Insee
+;
+Population totale par âge et sexe 
+;
+Sources
+;
+Insee - Estimations de population
+;
+@Disponibilités
+;
+Aides complémentaires
+;
+Estimations de population
+;
+Les tranches d'âges présentées sont 
+;
+des tranches d'âge quinquennales : 0-4 ans, 5-9 ans, 10-14 ans, 15-19 ans, 20-24 ans, 25-29 ans, 30-34 ans, 35-39 ans, 40-44 ans, 45-49 ans, 50-54 ans, 55-59 ans, 60-64 ans, 65-69 ans, 70-74 ans, 75-79 ans, 80-84 ans, 85-89 ans, 90-94 ans 
+;
+des grandes tranches d'âges : moins de 15 ans, moins de 20 ans, 20-39 ans, 20-59 ans, 40-59 ans, 60 ans et plus, 60-74 ans, 75 ans et plus, 95 ans et plus 
+;
+ensemble.
+;
+
+;
+Sélectionner une autre série
+;
+Source IRDES Eco-Santé France, Régions & DépartementsDernière révision de cette page :
+;
+12/02/2015
+;
+
+;
+;
+;
+
+;
+
+;
+Population totale par âge et sexe Insee
+;
+Population totale par âge et sexe 
+;
+Sources
+;
+Insee - Estimations de population
+;
+@Disponibilités
+;
+Aides complémentaires
+;
+Estimations de population
+;
+Les tranches d'âges présentées sont 
+;
+des tranches d'âge quinquennales : 0-4 ans, 5-9 ans, 10-14 ans, 15-19 ans, 20-24 ans, 25-29 ans, 30-34 ans, 35-39 ans, 40-44 ans, 45-49 ans, 50-54 ans, 55-59 ans, 60-64 ans, 65-69 ans, 70-74 ans, 75-79 ans, 80-84 ans, 85-89 ans, 90-94 ans 
+;
+des grandes tranches d'âges : moins de 15 ans, moins de 20 ans, 20-39 ans, 20-59 ans, 40-59 ans, 60 ans et plus, 60-74 ans, 75 ans et plus, 95 ans et plus 
+;
+ensemble.
+;
+
+;
+Sélectionner une autre série
+;
+Source IRDES Eco-Santé France, Régions & DépartementsDernière révision de cette page :
+;
+12/02/2015
+;
+
+;
+;
+;
+
+;
+
+;
+Population totale par âge et sexe Insee
+;
+Population totale par âge et sexe 
+;
+Sources
+;
+Insee - Estimations de population
+;
+@Disponibilités
+;
+Aides complémentaires
+;
+Estimations de population
+;
+Les tranches d'âges présentées sont 
+;
+des tranches d'âge quinquennales : 0-4 ans, 5-9 ans, 10-14 ans, 15-19 ans, 20-24 ans, 25-29 ans, 30-34 ans, 35-39 ans, 40-44 ans, 45-49 ans, 50-54 ans, 55-59 ans, 60-64 ans, 65-69 ans, 70-74 ans, 75-79 ans, 80-84 ans, 85-89 ans, 90-94 ans 
+;
+des grandes tranches d'âges : moins de 15 ans, moins de 20 ans, 20-39 ans, 20-59 ans, 40-59 ans, 60 ans et plus, 60-74 ans, 75 ans et plus, 95 ans et plus 
+;
+ensemble.
+;
+
+;
+Sélectionner une autre série
+;
+Source IRDES Eco-Santé France, Régions & DépartementsDernière révision de cette page :
+;
+12/02/2015
+;
+
+;
+;
+;
+
+;
+
+;
+Population totale par âge et sexe Insee
+;
+Population totale par âge et sexe 
+;
+Sources
+;
+Insee - Estimations de population
+;
+@Disponibilités
+;
+Aides complémentaires
+;
+Estimations de population
+;
+Les tranches d'âges présentées sont 
+;
+des tranches d'âge quinquennales : 0-4 ans, 5-9 ans, 10-14 ans, 15-19 ans, 20-24 ans, 25-29 ans, 30-34 ans, 35-39 ans, 40-44 ans, 45-49 ans, 50-54 ans, 55-59 ans, 60-64 ans, 65-69 ans, 70-74 ans, 75-79 ans, 80-84 ans, 85-89 ans, 90-94 ans 
+;
+des grandes tranches d'âges : moins de 15 ans, moins de 20 ans, 20-39 ans, 20-59 ans, 40-59 ans, 60 ans et plus, 60-74 ans, 75 ans et plus, 95 ans et plus 
+;
+ensemble.
+;
+
+;
+Sélectionner une autre série
+;
+Source IRDES Eco-Santé France, Régions & DépartementsDernière révision de cette page :
+;
+12/02/2015
+;
+
+;
+;
+;
+
+;
+
+;
+Population totale par âge et sexe Insee
+;
+Population totale par âge et sexe 
+;
+Sources
+;
+Insee - Estimations de population
+;
+@Disponibilités
+;
+Aides complémentaires
+;
+Estimations de population
+;
+Les tranches d'âges présentées sont 
+;
+des tranches d'âge quinquennales : 0-4 ans, 5-9 ans, 10-14 ans, 15-19 ans, 20-24 ans, 25-29 ans, 30-34 ans, 35-39 ans, 40-44 ans, 45-49 ans, 50-54 ans, 55-59 ans, 60-64 ans, 65-69 ans, 70-74 ans, 75-79 ans, 80-84 ans, 85-89 ans, 90-94 ans 
+;
+des grandes tranches d'âges : moins de 15 ans, moins de 20 ans, 20-39 ans, 20-59 ans, 40-59 ans, 60 ans et plus, 60-74 ans, 75 ans et plus, 95 ans et plus 
+;
+ensemble.
+;
+
+;
+Sélectionner une autre série
+;
+Source IRDES Eco-Santé France, Régions & DépartementsDernière révision de cette page :
+;
+12/02/2015
+;
+
+;
+;
+;
+;
+Eco-Santé France, Régions & Départements - Mise à jour : Avril 2016;http://www.ecosante.fr/index2.php?base=DEPA&langs=FRA&langh=FRA;
